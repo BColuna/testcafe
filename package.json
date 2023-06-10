@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "testcafe": "^2.6.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.3",
+    "testcafe": "^2.6.2"
+  },
+  "scripts": {
+    "tests": "testcafe chrome testcases/g*.ts"
+  }
+}
